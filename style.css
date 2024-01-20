@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(104, 17, 204);
+    padding: 10px;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+    background-color: orange;
+    padding: 7px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    
+}
+
+.messi {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    padding: 15px;
+}
+
+footer {
+    background-color: rgb(104, 17, 204);
+    padding: 10px;
+    color: white;
+}
+
+img {
+    padding: 10px;
+}
